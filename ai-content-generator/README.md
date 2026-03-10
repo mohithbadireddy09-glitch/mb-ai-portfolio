@@ -15,3 +15,9 @@ To create structured content ideas and draft posts using AI.
 - ChatGPT
 - Prompt engineering
 - Content structuring
+
+## Prompt Template
+
+Use the template here:
+
+[Content Generation Template](./content-generation-template.md)
