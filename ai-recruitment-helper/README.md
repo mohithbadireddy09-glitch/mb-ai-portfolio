@@ -1,17 +1,8 @@
-# AI Recruitment Helper
+## Prompt Template
 
-This project demonstrates how AI can assist HR teams with faster and more structured candidate screening.
+This project includes a reusable recruitment screening prompt template.
 
-## Purpose
+Use it here:  
+[Recruitment Screening Template](./recruitment-screening-template.md)
 
-To help recruiters review CVs, identify relevant skills, and shortlist suitable candidates more efficiently.
-
-## Example Use Case
-
-Screen 100 CVs for a marketing assistant role and shortlist the top 10 candidates based on relevant skills and experience.
-
-## Tools
-
-- ChatGPT
-- Prompt engineering
-- Basic HR screening logic
+This template helps structure candidate evaluation using AI.
