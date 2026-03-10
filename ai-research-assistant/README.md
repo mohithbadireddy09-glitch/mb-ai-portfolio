@@ -1,14 +1,8 @@
-# AI Research Assistant
+## Prompt Template
 
-This project demonstrates how AI can assist with business and academic research.
+This project includes a reusable research prompt template.
 
-## Purpose
-To help generate structured research reports using AI.
+Use the template here:
+[Research Prompt Template](./research-prompt-template.md)
 
-## Example Use Case
-Research the top AI recruitment tools used by HR teams.
-
-## Tools
-- ChatGPT
-- Prompt engineering
-- Web research
+This prompt helps generate structured research reports using AI.
