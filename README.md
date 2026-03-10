@@ -4,39 +4,18 @@ AI-assisted business workflow demos exploring how artificial intelligence can su
 
 ## Projects
 
-### AI Research Assistant
+### [AI Research Assistant](./ai-research-assistant)
 Demonstrates how AI can automate business and competitor research workflows.
 
-Tools:
-- ChatGPT
-- Prompt engineering
-- Structured research reporting
-
-Folder: ai-research-assistant
-
 ---
 
-### AI Recruitment Helper
+### [AI Recruitment Helper](./ai-recruitment-helper)
 Shows how AI can help HR teams screen CVs and identify suitable candidates.
 
-Tools:
-- ChatGPT
-- Recruitment workflow analysis
-- Prompt-based evaluation
-
-Folder: ai-recruitment-helper
-
 ---
 
-### AI Content Generator
+### [AI Content Generator](./ai-content-generator)
 Explores how AI can generate marketing and social media content for businesses.
-
-Tools:
-- ChatGPT
-- Content structuring
-- Prompt templates
-
-Folder: ai-content-generator
 
 ---
 
